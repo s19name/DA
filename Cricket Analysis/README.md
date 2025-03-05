@@ -1,0 +1,1 @@
+This is the Data Cleaning and analysis of the record of cricket players in the US since the XX century. The dataset is taken from https://www.espncricinfo.com/records/highest-career-batting-average-282910, provided by Ryan & Matt Data Science channel, and guided by him to practice my skills.
